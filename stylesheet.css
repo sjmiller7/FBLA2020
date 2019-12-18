@@ -8,9 +8,6 @@ body {
 .navbar:hover {
   opacity: 1;
 }
-.navbar-collapse {
- 	border-color: red;
-}
 .navbar-default {
  	background-color: #060007;
   border-color: #FFF9F2;
