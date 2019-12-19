@@ -1,6 +1,7 @@
 body {
   background-color: #FFF9F2;
 }
+/*Nav styles*/
 .navbar {
   border-radius: 0 0 25px 25px;
   opacity: 0.8;
@@ -43,4 +44,9 @@ body {
    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
       color: #FFF9F2;
     }
+}
+/*??*/
+.container-fluid {
+  margin: 0;
+  padding: 0;
 }
