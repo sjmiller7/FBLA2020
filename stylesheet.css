@@ -31,11 +31,11 @@ body {
 }
 .navbar-default .navbar-brand {
   width: 30px;
-  padding-left: 10px;
+  margin-left: 25px;
 }
 .navbar-default .navbar-toggle {
   border-color: #FFF9F2;
-  padding-right: 10px;
+  margin-right: 25px;
 }
 .navbar-default .navbar-toggle:hover,
     .navbar-default .navbar-toggle:focus {
