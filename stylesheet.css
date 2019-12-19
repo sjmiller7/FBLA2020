@@ -29,8 +29,13 @@ body {
   color: #FFF9F2;
   background-color: #FFF9F2;
 }
+.navbar-default .navbar-brand {
+  width: 30px;
+  padding-left: 10px;
+}
 .navbar-default .navbar-toggle {
   border-color: #FFF9F2;
+  padding-right: 10px;
 }
 .navbar-default .navbar-toggle:hover,
     .navbar-default .navbar-toggle:focus {
