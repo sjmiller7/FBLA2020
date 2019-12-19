@@ -31,8 +31,10 @@ body {
   background-color: #FFF9F2;
 }
 .navbar-default .navbar-brand {
-  width: 30px;
   margin-left: 25px;
+}
+.navbar-default .navbar-brand img {
+  width: 30px;
 }
 .navbar-default .navbar-toggle {
   border-color: #FFF9F2;
