@@ -4,7 +4,6 @@ body {
 .navbar {
   border-radius: 0 0 25px 25px;
   opacity: 0.8;
-  height: 10vh;
 }
 .navbar:hover {
   opacity: 1;
