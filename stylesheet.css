@@ -58,7 +58,11 @@ body {
     }
 }
 /*Footer*/
-
+footer {
+  height: 50px;
+  background-color: #060007;
+  border-radius: 25px 25px 0 0;
+}
 /*Home*/
 #myCarousel {
   height: 50vh;
