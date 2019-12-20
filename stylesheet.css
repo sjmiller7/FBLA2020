@@ -63,6 +63,8 @@ footer {
   background-color: #060007;
   border-radius: 25px 25px 0 0;
   text-align: center;
+  padding: 15px;
+  color: #FFF9F2;
 }
 /*Home*/
 #myCarousel {
