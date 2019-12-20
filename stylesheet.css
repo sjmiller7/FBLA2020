@@ -70,7 +70,8 @@ footer {
   color: #FFF9F2;
 }
 footer .col-md-4 {
-  padding: 15px 0;
+  padding: 15px 0px 15px 0px;
+  background-color: green;
 }
 /*Home*/
 #myCarousel {
