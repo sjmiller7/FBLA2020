@@ -1,6 +1,10 @@
 body {
   background-color: #FFF9F2;
 }
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
 /*Nav styles*/
 .navbar {
   border-radius: 0 0 25px 25px;
@@ -53,12 +57,12 @@ body {
       color: #FFF9F2;
     }
 }
-/*??*/
-.container-fluid {
-  margin: 0;
-  padding: 0;
-}
+/*Footer*/
+
+/*Home*/
 #myCarousel {
   height: 50vh;
+}
+.carousel-inner, .carousel-control {
   border-radius: 0 0 25px 25px;
 }
