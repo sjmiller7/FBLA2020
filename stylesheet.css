@@ -79,3 +79,10 @@ footer .col-md-4 {
 .carousel-inner, .carousel-control {
   border-radius: 0 0 25px 25px;
 }
+.carousel-inner .item img {
+  min-width: 100vw; 
+  min-height: 70vh;
+}
+.carousel-inner {
+  height: 70vh;
+}
