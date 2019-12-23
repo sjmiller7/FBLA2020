@@ -86,3 +86,7 @@ footer .col-md-4 {
 .carousel-inner {
   height: 70vh;
 }
+.content-section {
+  padding: 10px 0px;
+  border-bottom: 3px solid #F97840;
+}
