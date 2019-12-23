@@ -87,6 +87,7 @@ footer .col-md-4 {
   height: 70vh;
 }
 .content-section {
-  padding: 10px 0px;
+  padding: 5px 0px;
+  margin: 15px 0px;
   border-bottom: 3px solid #F97840;
 }
