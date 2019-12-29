@@ -73,11 +73,12 @@ footer .col-md-4 {
   padding: 15px 0;
 }
 footer a {
-  color: #F97840;
+  color: #FFF9F2;
+  text-decoration: underline;
 }
 .socials a {
   font-size: 2em;
-  color: #FFF9F2;
+  /*color: #FFF9F2;*/
 }
 footer a:hover {
   color: #F97840;
