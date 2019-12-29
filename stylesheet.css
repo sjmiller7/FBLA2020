@@ -98,6 +98,11 @@ footer a:hover {
 .content-section {
   padding: 15px 0px;
 }
+.mycaption {
+    top: 25vh; 
+    font-size: 5vh; 
+    line-height: 5vh;
+}
 .divider {
   border-bottom: 3px solid #F97840;
 }
