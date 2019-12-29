@@ -72,12 +72,15 @@ footer {
 footer .col-md-4 {
   padding: 15px 0;
 }
+footer a {
+  color: #F97840;
+}
 .socials a {
   font-size: 2em;
   color: #FFF9F2;
 }
-footer a {
-  color: #F97840;
+footer a:hover {
+  color: #FFF9F2;
 }
 /*Home*/
 #myCarousel {
