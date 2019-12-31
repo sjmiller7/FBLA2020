@@ -106,3 +106,10 @@ footer a:hover {
 .divider {
   border-bottom: 3px solid #F97840;
 }
+.roundbtn {
+  background-color: #E84353; 
+  height: 50px; 
+  width: 50px; 
+  border-radius: 25px; 
+  margin-left: calc(50% - 25px);
+}
