@@ -3,8 +3,10 @@
 To-do list:
 - Add meta tags
 - verify the FBLA email
-- Fix the logo
 - Update home page slideshow
+- Fix home page buttons to actually work
+
+- Fix the logo
 - Make all of the other pages
 - User testing / test against the rules
 - Clean/comment code
