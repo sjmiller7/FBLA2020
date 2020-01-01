@@ -12,4 +12,5 @@ To-do list:
 - User testing / test against the rules - All
 - Clean/comment code - Z & SJ
 - Make this a proper README - G
+- DOCUMENT EVERYTHING - All
 - Consider supplamental materials - G
