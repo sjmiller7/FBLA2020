@@ -97,7 +97,7 @@ footer a:hover {
   height: 70vh;
 }
 .mycaption {
-    font-family: 'Agency FB Bold', arial;
+    font-family: 'Agency FB Bold', arial !important;
     top: 25vh; 
     font-size: 5vh; 
     line-height: 5vh;
