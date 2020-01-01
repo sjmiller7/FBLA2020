@@ -1,13 +1,15 @@
 # FBLA2020
 
 To-do list:
-- Add meta tags
 - verify the FBLA email
-- Update home page slideshow
 - Fix home page buttons to actually work
+- Update home page slideshow 
 
-- Fix the logo
-- Make all of the other pages
-- User testing / test against the rules
-- Clean/comment code
-- Make this a proper README
+- Add logo to slideshow - Z & SJ
+- Fix meta tags - G
+- Fix the logo - Z
+- Make all of the other pages - Z & SJ
+- User testing / test against the rules - All
+- Clean/comment code - Z & SJ
+- Make this a proper README - G
+- Consider supplamental materials - G
