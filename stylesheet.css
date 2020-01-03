@@ -49,8 +49,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 25px;
 }
 .navbar-default .navbar-toggle:hover,
-    .navbar-default .navbar-toggle:focus {
-     background-color: #F97840;
+  .navbar-default .navbar-toggle:focus {
+   background-color: #F97840;
 }
 .navbar-default .navbar-toggle .icon-bar {
      background-color: #FFF9F2;
@@ -97,10 +97,10 @@ footer a:hover {
   height: 70vh;
 }
 .mycaption {
-    font-family: 'Teko', sans-serif;
-    top: 25vh; 
-    font-size: 5vh; 
-    line-height: 5vh;
+  font-family: 'Teko', sans-serif;
+  top: 25vh; 
+  font-size: 5vh; 
+  line-height: 5vh;
 }
 /*Home*/
 .content-section {
