@@ -3,7 +3,7 @@
 body {
   background-color: #FFF9F2;
   font-family: 'Old Standard TT', serif;
-  color" #060007;
+  color: #060007;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Teko', sans-serif;
@@ -119,7 +119,9 @@ footer a:hover {
   font-size: 30px;
   line-height: 60px;
   padding-left: 11px;
+  color: #060007;
 }
 .roundbtn:hover {
   box-shadow: 5px 5px 10px #060007;
+  color: #060007;
 }
