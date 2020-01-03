@@ -85,21 +85,21 @@ footer a:hover {
 }
 /*Carousel (on home)*/
 #myCarousel {
-  height: 70vh;
+  height: 50vh;
 }
 .carousel-inner, .carousel-control {
   border-radius: 0 0 25px 25px;
 }
 .carousel-inner .item img {
   min-width: 100vw; 
-  min-height: 70vh;
+  min-height: 50vh;
 }
 .carousel-inner {
-  height: 70vh;
+  height: 50vh;
 }
 .mycaption {
   font-family: 'Teko', sans-serif;
-  top: 25vh; 
+  top: 20vh; 
   font-size: 5vh; 
   line-height: 5vh;
 }
