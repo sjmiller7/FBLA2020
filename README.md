@@ -1,9 +1,10 @@
 # FBLA2020
 
 To-do list:
-- verify the FBLA email
-- Fix home page buttons to actually work
 - Update home page slideshow 
+  - Make it fit the "animation introducing the airline" requirement
+  - not a lot of info but an overfiew including mission and vision
+  - basically the things that are not below it
 
 - Add logo to slideshow - Z & SJ
 - Fix meta tags - G
