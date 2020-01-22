@@ -139,9 +139,31 @@ td, th {
 tr {
   border-bottom: 3px solid #F97840;
 }
+*, .form-control {
+  color: #060007 !important;
+}
+.form-control, .form-control:hover, .form-control:focus, .btn-primary, .btn-primary:hover, .btn-primary:focus, .callToAction {
+  background-color: #E84353;
+  border: none;
+  border-radius: 0px;
+}
+.form-control:hover, .form-control:focus, .btn-primary:hover, .btn-primary:focus, .callToAction:hover, .callToAction:focus {
+  outline: none;
+  box-shadow: 5px 5px 10px #060007;
+}
 .callToAction {
   padding: 10px 45px;
   width: 160px;
   height: 85px;
   border-radius: 20px;
+}
+.file {
+  display: none;
+}
+.filebtn {
+  background-color: #E84353;
+  padding: 10px;
+}
+.filebtn:hover, .filebtn:focus {
+  box-shadow: 5px 5px 10px #060007;
 }
