@@ -139,7 +139,7 @@ td, th {
 tr {
   border-bottom: 3px solid #F97840;
 }
-*, .form-control {
+.form-control {
   color: #060007 !important;
 }
 .form-control, .form-control:hover, .form-control:focus, .btn-primary, .btn-primary:hover, .btn-primary:focus, .callToAction {
