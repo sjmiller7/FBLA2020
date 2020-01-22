@@ -139,3 +139,9 @@ td, th {
 tr {
   border-bottom: 3px solid #F97840;
 }
+.callToAction {
+  padding: 10px 45px;
+  width: 160px;
+  height: 85px;
+  border-radius: 20px;
+}
