@@ -166,3 +166,8 @@ tr {
 .filebtn:hover, .filebtn:focus {
   box-shadow: 5px 5px 10px #060007;
 }
+.headerImg {
+  border-radius: 0 0 25px 25px;
+  min-width: 100vw; 
+  min-height: 50vh;
+}
