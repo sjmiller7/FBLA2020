@@ -155,6 +155,7 @@ tr {
   padding: 10px 45px;
   height: 85px;
   border-radius: 20px;
+  width:auto;
 }
 .file {
   display: none;
