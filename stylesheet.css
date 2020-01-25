@@ -171,6 +171,7 @@ tr {
   border-radius: 0 0 25px 25px;
   width: 100vw; 
   height: 50vh;
+  overflow: hidden;
 }
 .headerImg img {
   min-width: 100vw; 
