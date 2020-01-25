@@ -151,13 +151,14 @@ tr {
 .form-control:hover, .form-control:focus, .btn-primary:hover, .btn-primary:focus, .callToAction:hover, .callToAction:focus {
   outline: none;
   box-shadow: 5px 5px 10px #060007;
-  text-decoration:none;
+  text-decoration: none;
 }
 .callToAction {
-  padding: 10px 45px;
+  padding: 10px 0px;
   height: 85px;
   border-radius: 20px;
-  width:auto;
+  width: 200px;
+  text-align: center;
 }
 .file {
   display: none;
