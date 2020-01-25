@@ -139,6 +139,7 @@ td, th {
 tr {
   border-bottom: 3px solid #F97840;
 }
+/*Forms and buttons*/
 .form-control, .callToAction {
   color: #060007 !important;
 }
@@ -150,6 +151,7 @@ tr {
 .form-control:hover, .form-control:focus, .btn-primary:hover, .btn-primary:focus, .callToAction:hover, .callToAction:focus {
   outline: none;
   box-shadow: 5px 5px 10px #060007;
+  text-decoration:none;
 }
 .callToAction {
   padding: 10px 45px;
