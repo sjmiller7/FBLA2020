@@ -159,6 +159,7 @@ tr {
   border-radius: 20px;
   width: 200px;
   text-align: center;
+  margin-left: calc(50%-100px);
 }
 .file {
   display: none;
