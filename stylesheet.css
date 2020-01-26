@@ -154,12 +154,19 @@ tr {
   box-shadow: 5px 5px 10px #060007;
 }
 .callToAction {
-  padding: 10px 0px;
   height: 85px;
   border-radius: 20px;
   width: 200px;
   text-align: center;
   margin-left: calc(50% - 100px);
+}
+.callToAction a, .callToAction a:hover, .callToAction a:focus {
+  text-decoration: none;
+  color: #060007;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
 }
 .file {
   display: none;
