@@ -160,7 +160,7 @@ tr {
   text-align: center;
   margin-left: calc(50% - 100px);
 }
-.callToAction:hover a, .callToAction:focus a {
+.callToAction a:hover, .callToAction a:focus {
   text-decoration: none;
 }
 .file {
