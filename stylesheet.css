@@ -151,7 +151,6 @@ tr {
 .form-control:hover, .form-control:focus, .btn-primary:hover, .btn-primary:focus, .callToAction:hover, .callToAction:focus {
   outline: none;
   box-shadow: 5px 5px 10px #060007;
-  text-decoration: none !important;
 }
 .callToAction {
   padding: 10px 0px;
@@ -160,6 +159,9 @@ tr {
   width: 200px;
   text-align: center;
   margin-left: calc(50% - 100px);
+}
+.callToAction:hover a, .callToAction:focus a {
+  text-decoration: none;
 }
 .file {
   display: none;
