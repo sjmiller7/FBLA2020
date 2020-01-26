@@ -76,6 +76,7 @@ footer .col-md-4 {
 }
 footer a {
   color: #FFF9F2;
+  text-decoration: underline;
 }
 .socials a {
   font-size: 2em;
@@ -159,9 +160,6 @@ tr {
   width: 200px;
   text-align: center;
   margin-left: calc(50% - 100px);
-}
-.callToAction a:hover, .callToAction a:focus {
-  text-decoration: none;
 }
 .file {
   display: none;
