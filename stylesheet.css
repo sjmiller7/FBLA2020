@@ -108,6 +108,10 @@ footer a:hover {
 .content-section {
   padding: 15px 0px;
 }
+.conent-section ol {
+  text-align: center; 
+  list-style-position: inside;
+}
 .divider {
   border-bottom: 3px solid #F97840;
 }
