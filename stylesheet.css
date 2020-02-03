@@ -145,7 +145,7 @@ tr {
   border-bottom: 3px solid #F97840;
 }
 /*Forms and buttons*/
-input, .form-control, .callToAction, *::placeholder {
+input, .form-control, .callToAction, .btn, *::placeholder, *::-webkit-input-placeholder, *::-ms-input-placeholder {
   color: #060007 !important;
 }
 .form-control, .form-control:hover, .form-control:focus, .btn-primary, .btn-primary:hover, .btn-primary:focus, .callToAction {
