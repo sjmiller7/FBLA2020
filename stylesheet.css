@@ -157,7 +157,9 @@ input, .form-control, .callToAction, .btn, input::placeholder, input::-webkit-in
   border-radius: 0px;
 }
 .form-control:hover, .form-control:focus, .btn-primary:hover, .btn-primary:focus, .callToAction:hover, .callToAction:focus {
+  background-color: #E84353;
   outline: none;
+  border: none;
   box-shadow: 5px 5px 10px #060007;
 }
 .callToAction {
