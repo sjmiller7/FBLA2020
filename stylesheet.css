@@ -156,7 +156,7 @@ input, .form-control, .callToAction, .btn, input::placeholder, input::-webkit-in
   border: none;
   border-radius: 0px;
 }
-.form-control:hover, .form-control:focus, .form-control:active, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .callToAction:hover, .callToAction:focus, .callToAction:active {
+.form-control:hover, .form-control:focus, .form-control:active:hover, .btn-primary:hover, .btn-primary:focus, .btn-primary:active:hover, .callToAction:hover, .callToAction:focus, .callToAction:active:hover {
   background-color: #E84353;
   outline: none;
   border: none;
