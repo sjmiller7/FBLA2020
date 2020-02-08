@@ -181,7 +181,7 @@ input, .form-control, .callToAction, .btn, input::placeholder, input::-webkit-in
   padding: 10px;
 }
 .file {
-  display: none;
+  display: none !important;
 }
 .filebtn {
   background-color: #E84353;
