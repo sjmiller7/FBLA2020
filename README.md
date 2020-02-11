@@ -3,7 +3,6 @@
 To-do list:
 - Thank you pages - Z
 - Fix meta tags - G
-- Fix the logo - Z
 - User testing / test against the rules / TEST ON ALL BROWSERS- All
 - Clean/comment code - Z & SJ
 - Make this a proper README - G
