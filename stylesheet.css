@@ -104,9 +104,12 @@ footer a:hover {
 }
 .mycaption {
   font-family: 'Teko', sans-serif;
-  top: 12.5vh; 
+  top: 20vh; 
   font-size: 5vh; 
   line-height: 5vh;
+}
+#myCarousel .mycaption {
+  top: 12.5vh !important;
 }
 /*Home*/
 .content-section {
