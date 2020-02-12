@@ -97,6 +97,7 @@ footer a:hover {
 .carousel-inner .item img {
   min-width: 100vw; 
   min-height: 50vh;
+  border-radius: 0 0 25px 25px;
 }
 .carousel-inner {
   height: 50vh;
