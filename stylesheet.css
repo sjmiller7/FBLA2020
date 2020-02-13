@@ -152,6 +152,12 @@ tr {
   border-bottom: 3px solid #F97840;
 }
 /*Forms and buttons*/
+form {
+  border: 3px solid #F97840;
+  border-radius: 25px;
+  padding: 5px;
+  margin: 5px 0;
+}
 input::ms-input-placeholder {
   color: #060007 !important;
 }
