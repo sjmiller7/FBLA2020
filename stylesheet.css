@@ -11,9 +11,6 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   margin: 0px;
 }
-.container-fluid {
-background-color: #060007;
-}
 /*Nav styles*/
 .navbar {
   border-radius: 0 0 25px 25px;
