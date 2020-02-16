@@ -107,6 +107,7 @@ footer a:hover {
   top: 20vh; 
   font-size: 5vh; 
   line-height: 5vh;
+  height: 40vh;
 }
 #myCarousel .mycaption {
   top: 12.5vh !important;
