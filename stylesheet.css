@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
 body {
-  background-color: #060007;
+  background-color: #FFF9F2;
   font-family: 'Old Standard TT', serif;
   color: #060007;
 }
@@ -12,7 +12,7 @@ h2 {
   margin: 0px;
 }
 .container-fluid {
-background-color: #FFF9F2;
+background-color: #060007;
 }
 /*Nav styles*/
 .navbar {
