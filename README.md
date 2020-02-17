@@ -1,7 +1,9 @@
 # FBLA2020
 
 To-do list:
-- Clean/comment code - SJ
+- dark text on some slides
+- favicon
+- method
 - fix unsplash - sj
 - Fix meta tags - G
 - Make this a proper README - G
