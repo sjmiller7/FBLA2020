@@ -3,7 +3,6 @@
 To-do list:
 - dark text on some slides
 - favicon
-- method
 - fix unsplash - sj
 - Fix meta tags - G
 - Make this a proper README - G
