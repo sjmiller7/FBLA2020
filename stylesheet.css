@@ -23,7 +23,7 @@ h2 {
   min-height: 50vh;
 }
 .smallBody {
-  min-height: 45vh;
+  min-height: 15vh;
 }
 /*Nav*/
 .navbar {
@@ -100,6 +100,9 @@ footer a {
 }
 footer a:hover {
   color: #F97840;
+}
+.smallfooter {
+  min-height: 35vh;
 }
 /*Carousel (on home page)*/
 #myCarousel {
