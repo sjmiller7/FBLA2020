@@ -12,16 +12,6 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   margin: 0px;
 }
-.headerImg {
-  border-radius: 0 0 25px 25px;
-  width: 100%; 
-  height: 50vh;
-  overflow: hidden;
-}
-.headerImg img {
-  width: 100vw; 
-  min-height: 50vh;
-}
 .smallBody {
   min-height: 25vh;
 }
@@ -104,7 +94,7 @@ footer a:hover {
 .smallfooter {
   min-height: 24vh;
 }
-/*Carousel (on home page)*/
+/*Carousel and Header Images*/
 #myCarousel {
   height: 50vh;
 }
@@ -124,10 +114,23 @@ footer a:hover {
   top: 20vh; 
   font-size: 5vh; 
   line-height: 5vh;
-  height: 40vh;
+  height: 20vh;
 }
 #myCarousel .mycaption {
   top: 12.5vh !important;
+}
+.headerImg {
+  border-radius: 0 0 25px 25px;
+  width: 100%; 
+  height: 50vh;
+  overflow: hidden;
+}
+.headerImg img {
+  width: 100vw; 
+  min-height: 50vh;
+}
+.darkText {
+  color: #060007;
 }
 /*Home*/
 .content-section {
