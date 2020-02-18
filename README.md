@@ -1,7 +1,6 @@
 # FBLA2020
 
 To-do list:
-- dark text on some slides
 - fix unsplash - sj
 - Fix meta tags - G
 - Make this a proper README - G
