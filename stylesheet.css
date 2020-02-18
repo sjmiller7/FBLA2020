@@ -16,7 +16,7 @@ h2 {
   min-height: 25vh;
 }
 .smallBody a {
-  color: color: #060007;
+  color: color: #060007 !important;
   text-decoration: underline;
 }
 /*Nav*/
