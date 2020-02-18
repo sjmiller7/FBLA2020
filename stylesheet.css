@@ -115,7 +115,12 @@ footer a:hover {
   font-size: 5vh; 
   line-height: 5vh;
   height: 20vh;
-  color: #FFF9F2 !important;
+  color: #FFF9F2;
+  text-shadow: 0px 0px 10px #060007;
+}
+.darkText {
+  color: #060007;
+  text-shadow: 0px 0px 10px #FFF9F2;
 }
 #myCarousel .mycaption {
   top: 12.5vh !important;
@@ -129,9 +134,6 @@ footer a:hover {
 .headerImg img {
   width: 100vw; 
   min-height: 50vh;
-}
-.darkText {
-  color: #060007;
 }
 /*Home*/
 .content-section {
