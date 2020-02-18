@@ -2,7 +2,6 @@
 
 To-do list:
 - dark text on some slides
-- mercury miles not mercury plus
 - perks: flights not airlines
 - fix unsplash - sj
 - Fix meta tags - G
