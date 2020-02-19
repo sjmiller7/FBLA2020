@@ -19,6 +19,9 @@ h2 {
   color: #060007;
   text-decoration: underline;
 }
+.smallBody a:hover {
+  color: #F97840;
+}
 /*Nav*/
 .navbar {
   border-radius: 0 0 25px 25px;
