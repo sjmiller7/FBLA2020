@@ -133,10 +133,10 @@ footer a:hover {
   top: 12.5vh !important;
 }
 .carouselLogo {
-  width: 20vw;
+  width: 25vw;
   position: absolute;
   top: 15vh;
-  left: 40vw;
+  left: 37.5vw;
 }
 .headerImg {
   border-radius: 0 0 25px 25px;
