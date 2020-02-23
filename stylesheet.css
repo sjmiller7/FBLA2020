@@ -20,7 +20,7 @@ h2 {
   text-decoration: underline;
 }
 .smallBody a:hover {
-  color: #F97840;
+  color: #E84353;
 }
 /*Nav*/
 .navbar {
@@ -43,7 +43,7 @@ h2 {
   font-family: 'Old Standard TT', serif;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #F97840;
+  color: #E84353;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #FFF9F2;
@@ -65,7 +65,7 @@ h2 {
 }
 .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus {
-   background-color: #F97840;
+   background-color: #E84353;
 }
 .navbar-default .navbar-toggle .icon-bar {
      background-color: #FFF9F2;
@@ -96,7 +96,7 @@ footer a {
   font-size: 2em;
 }
 footer a:hover {
-  color: #F97840;
+  color: #E84353;
 }
 .smallfooter {
   min-height: 25vh;
@@ -155,10 +155,10 @@ footer a:hover {
   list-style-position: inside;
 }
 .divider {
-  border-bottom: 3px solid #F97840;
+  border-bottom: 3px solid #E84353;
 }
 .roundbtn {
-  background-color: #E84353; 
+  background-color: #F8E065; 
   height: 50px; 
   width: 50px; 
   border-radius: 25px; 
@@ -169,6 +169,7 @@ footer a:hover {
   color: #060007;
 }
 .roundbtn:hover {
+  background-color: #F97840;
   box-shadow: 5px 5px 10px #060007;
   color: #060007;
 }
@@ -184,11 +185,11 @@ td, th {
   width: 20%;
 }
 tr {
-  border-bottom: 3px solid #F97840;
+  border-bottom: 3px solid #E84353;
 }
 /*Forms and buttons*/
 form {
-  border: 3px solid #F97840;
+  border: 3px solid #E84353;
   border-radius: 25px;
   padding: 15px;
   margin: 5px 0;
@@ -206,12 +207,12 @@ input::-webkit-input-placeholder {
   color: #060007 !important;
 }
 .form-control, .form-control:hover, .form-control:focus, .btn-primary, .btn-primary:hover, .btn-primary:focus, .callToAction {
-  background-color: #E84353;
+  background-color: #F8E065;
   border: none;
   border-radius: 0px;
 }
 .form-control:hover, .form-control:focus, .form-control:active:hover, .btn-primary:hover, .btn-primary:focus, .btn-primary:active:hover, .callToAction:hover, .callToAction:focus, .callToAction:active:hover {
-  background-color: #E84353;
+  background-color: #F97840;
   outline: none;
   border: none;
   box-shadow: 5px 5px 10px #060007;
@@ -235,9 +236,10 @@ input::-webkit-input-placeholder {
   display: none !important;
 }
 .filebtn {
-  background-color: #E84353;
+  background-color: #F8E065;
   padding: 10px;
 }
 .filebtn:hover, .filebtn:focus {
+  background-color: #F97840;
   box-shadow: 5px 5px 10px #060007;
 }
