@@ -132,6 +132,10 @@ footer a:hover {
 #myCarousel .mycaption {
   top: 12.5vh !important;
 }
+.carouselLogo {
+  height: 10vh;
+  top: 5vh;
+}
 .headerImg {
   border-radius: 0 0 25px 25px;
   width: 100%; 
