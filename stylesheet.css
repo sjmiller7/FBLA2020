@@ -154,7 +154,7 @@ footer a:hover {
   border-bottom: 3px solid #E84353;
 }
 .roundbtn {
-  background-color: #F8E065; 
+  background-color: #F97840; 
   height: 50px; 
   width: 50px; 
   border-radius: 25px; 
@@ -165,7 +165,7 @@ footer a:hover {
   color: #060007;
 }
 .roundbtn:hover {
-  background-color: #F97840;
+  background-color: #F8E065;
   box-shadow: 5px 5px 10px #060007;
   color: #060007;
 }
@@ -203,12 +203,12 @@ input::-webkit-input-placeholder {
   color: #060007 !important;
 }
 .form-control, .form-control:hover, .form-control:focus, .btn-primary, .btn-primary:hover, .btn-primary:focus, .callToAction {
-  background-color: #F8E065;
+  background-color: #F97840;
   border: none;
   border-radius: 0px;
 }
 .form-control:hover, .form-control:focus, .form-control:active:hover, .btn-primary:hover, .btn-primary:focus, .btn-primary:active:hover, .callToAction:hover, .callToAction:focus, .callToAction:active:hover {
-  background-color: #F97840;
+  background-color: #F8E065;
   outline: none;
   border: none;
   box-shadow: 5px 5px 10px #060007;
@@ -232,10 +232,10 @@ input::-webkit-input-placeholder {
   display: none !important;
 }
 .filebtn {
-  background-color: #F8E065;
+  background-color: #F97840;
   padding: 10px;
 }
 .filebtn:hover, .filebtn:focus {
-  background-color: #F97840;
+  background-color: #F8E065;
   box-shadow: 5px 5px 10px #060007;
 }
