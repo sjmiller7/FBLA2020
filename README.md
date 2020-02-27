@@ -1,6 +1,8 @@
-# FBLA2020
-
-To-do list:
-- Make this a proper README
-- make brochure - G
-- User testing / test against the rules / TEST ON ALL BROWSERS
+# Welcome to Mercury Airlines
+- description
+- content/pages info
+- how it was made
+- where to access it/ installation
+- roadmap/future plans
+- support
+- authors
